@@ -65,3 +65,10 @@ To pull changes from github repo
 git pull origin main
 ```
 Note: origin--> contains url to your github repo main--> is your branch name
+
+.env file has
+```bash
+MONGO_DB_URL="mongodb://localhost:27017"
+AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
+AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
+```
